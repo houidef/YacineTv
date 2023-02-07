@@ -7,3 +7,4 @@ A program that decodes the Yassin TV channels and watch its channels from the vl
 You can use the pip tool to install the two components
 # Future improvements:
 - Yassin TV server detects the program as the Windows desktop program
+- Recently, beIN Sport channels are not working because of the first reason.
